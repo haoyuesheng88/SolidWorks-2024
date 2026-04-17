@@ -1,0 +1,4 @@
+interface:
+  display_name: "SOLIDWORKS Geometry Airflow"
+  short_description: "Inspect a live SOLIDWORKS part and compute face-based airflow."
+  default_prompt: "Use $solidworks-geometry-airflow to connect to the open SOLIDWORKS part, inspect geometry, and compute face area or airflow."
